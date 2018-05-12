@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 46041-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46041#The-Christian-Hymn-Bookand-Selected-by-A.-Campbell-and-Others
 gutenberg_issued: '2014-06-20'
 gutenberg_type: Text
 identifiers:
